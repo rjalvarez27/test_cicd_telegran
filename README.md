@@ -13,3 +13,8 @@ Pasos:
 1- Secrets and variables
 2- actions
 3 - Repository secrets(METER LO DATOS DE TELEGRAM)
+
+(telegram)
+
+-comando para crear bot en telegram: @botfather
+- comando para obtener el id del telegram @userinfobot
