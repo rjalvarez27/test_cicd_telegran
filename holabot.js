@@ -1,1 +1,1 @@
-console.log("Hello Word estamos telegram")
+console.log("Hello Word estamos")
