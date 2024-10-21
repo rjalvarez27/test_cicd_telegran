@@ -1,5 +1,5 @@
 # Test_cicd_telegran
-test con notificacion de Telegran a Particulares
+Test con notificacion de Telegran a Particulares
 
 Pasos (configuration) 
 1- Settings 
