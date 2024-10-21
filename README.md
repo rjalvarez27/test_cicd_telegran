@@ -12,4 +12,4 @@ Pasos:
 
 1- Secrets and variables
 2- actions
-3 - 
+3 - Repository secrets(METER LO DATOS DE TELEGRAM)
